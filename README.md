@@ -46,8 +46,8 @@ index.html
 controls.html
 songs.html
 images/
-    link-and-navi.jpg
-    queen-gohma.jpg
+    link-and-navi.webp
+    queen-gohma.webp
 walkthrough/
     deku-tree.html
 ```

@@ -106,9 +106,9 @@ They belong in the `head`. Use the first as the page's `title` and the second as
 ### Images
 
 - [ ] The image placeholder on Home is replaced with an `img` that points to
-      `images/link-and-navi.jpg`
+      `images/link-and-navi.webp`
 - [ ] The image placeholder on the Deku Tree page is replaced with an `img` that points to
-      `../images/queen-gohma.jpg`
+      `../images/queen-gohma.webp`
 - [ ] Each image and its caption are wrapped in a `figure`, with the caption in a `figcaption`
 - [ ] Each image has `alt` text that describes what it shows
 - [ ] Both images display on the live site
